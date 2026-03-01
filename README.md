@@ -11,7 +11,7 @@ Together with my wife, we are in the vacation rental business in Norway and Spai
 
 🏖️ Spain - Casa Agnethe - https://casaagnethe.eu
 
-🏔️ Spain - Sansel Cabin - https://vossrental.no
+🏔️ Norway - Sansel Cabin - https://vossrental.no
 
 🏙️ Norway - Villa Bjørge - https://villabjorge.no
 
