@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hi there, I'm Tormi 
 
-<!--
-**tormigit/tormigit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a former 👮, still working within the digital forensic field. When I was a kid I was programming on my Commodore 64, then life happened and I forgot that part of my life. In 2025 I found back to my old hobby, and now I am coding on several projects.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Together with my wife, we are in the vacation rental business in Norway and Spain. This means a wide specter of assignments falls on me. I create websites, do the accounting, and a lot of handyman work. 
+
+## ☀️ Our vacation homes
+🏖️ Spain - Casa Alise - https://casaalise.eu
+
+🏖️ Spain - Casa Agnethe - https://casaagnethe.eu
+
+🏔️ Spain - Sansel Cabin - https://vossrental.no
+
+🏙️ Norway - Villa Bjørge - https://villabjorge.no
+
+If you were to book with us, it's definitively the cheapest to contact me directly instead of through official booking channels.
+
+## 📫 Get in touch
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tormigit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tormodseljenes/) [![WhatsApp](https://img.shields.io/badge/-WhatsApp-42e35f?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/95994618)
+
+## 🧰 Currently working on
+- 🔭 I’m currently working on ... A contract and email generator hub & a Wordpress plugin.
