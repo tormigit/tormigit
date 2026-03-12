@@ -9,6 +9,9 @@ Together with my wife, we are in the vacation rental business in Norway and Spai
 ## My published work
 [seljeDrive Document Library for Google Drive](https://wordpress.org/plugins/seljedrive-document-library-for-google-drive/) - Publish your Google drive folders in the Frontend of your Wordpress site.
 
+## 🧰 Currently working on
+- 🔭 I’m currently working on ... A contract and email generator hub & another Wordpress plugin giving the user an option to show flag animations anywhere on screen with shortcodes.
+
 ## ☀️ Our vacation homes
 🏖️ Spain - Casa Alise - https://casaalise.eu
 
@@ -23,6 +26,3 @@ If you were to book with us, it's definitively the cheapest to contact me direct
 ## 📫 Get in touch
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tormigit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tormodseljenes/) [![WhatsApp](https://img.shields.io/badge/-WhatsApp-42e35f?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/95994618)
-
-## 🧰 Currently working on
-- 🔭 I’m currently working on ... A contract and email generator hub & a Wordpress plugin.
