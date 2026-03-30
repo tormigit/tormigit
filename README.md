@@ -8,6 +8,8 @@ Together with my wife, we are in the vacation rental business in Norway and Spai
 
 ## My published work
 [seljeDrive Document Library for Google Drive](https://wordpress.org/plugins/seljedrive-document-library-for-google-drive/) - Publish your Google drive folders in the Frontend of your Wordpress site.
+[FMImporter - github](https://github.com/tormigit/FMImporter) - Import your Football manager squad, get analytics and organize your squad with this website. 
+[FMImporter - website]([https://seljenes.no/fmimporter)
 
 ## 🧰 Currently working on
 - 🔭 I’m currently working on ... A contract and email generator hub, a Wordpress plugin giving the user an option to show flag animations anywhere on screen with shortcodes and an Android app.
