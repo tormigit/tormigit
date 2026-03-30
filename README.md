@@ -10,7 +10,7 @@ Together with my wife, we are in the vacation rental business in Norway and Spai
 [seljeDrive Document Library for Google Drive](https://wordpress.org/plugins/seljedrive-document-library-for-google-drive/) - Publish your Google drive folders in the Frontend of your Wordpress site.<br>
 [FMImporter - github](https://github.com/tormigit/FMImporter) - Import your Football manager squad, get analytics and organize your squad with this website.<br>
 [FMImporter - website](https://seljenes.no/fmimporter) - Live website for all to use, so you don't have to download this.<br>
-[FMImporter - website]([https://seljenes.no/fmimporter](https://seljenes.no/seljetowebp/)) - Crunch your images, and save space!
+[seljeToWebp](https://seljenes.no/fmimporter](https://seljenes.no/seljetowebp/) - Crunch your images, and save space!
 
 
 ## 🧰 Currently working on
