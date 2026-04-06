@@ -15,7 +15,7 @@ Together with my wife, we are in the vacation rental business in Norway and Spai
 
 
 ## 🧰 Currently working on
-- 🔭 I’m currently working on ... A contract and email generator hub, a Wordpress plugin giving the user an option to show flag animations anywhere on screen with shortcodes and an Android app.
+- 🔭 I’m currently working on ... A contract and email generator hub, a Wordpress plugin and an Android app.
 
 ## ☀️ Our vacation homes
 🏖️ Spain - Casa Alise - https://casaalise.eu
