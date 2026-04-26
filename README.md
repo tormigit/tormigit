@@ -7,6 +7,7 @@ I am a former 👮, still working within the digital forensic field. When I was 
 Together with my wife, we are in the vacation rental business in Norway and Spain. This means a wide specter of assignments falls on me. I create websites, do the accounting, and a lot of handyman work. 
 
 ## My published work
+[Leagues 4 Friends Android app](https://play.google.com/store/apps/details?id=no.league4friends.app) - Keep track of any tournament with this fun app.
 [seljeDrive Document Library for Google Drive](https://wordpress.org/plugins/seljedrive-document-library-for-google-drive/) - Publish your Google drive folders in the Frontend of your Wordpress site.<br>
 [seljeVisitorsFlags](https://wordpress.org/plugins/seljevisitorsflags/) - Put flags of visitors anywhere on your Wordpress site with a simple shortcode.<br>
 [FMImporter - github](https://github.com/tormigit/FMImporter) - Import your Football manager squad, get analytics and organize your squad with this website.<br>
@@ -15,7 +16,7 @@ Together with my wife, we are in the vacation rental business in Norway and Spai
 
 
 ## 🧰 Currently working on
-- 🔭 I’m currently working on ... A private contract and email generator hub, a Wordpress plugin and Leagues 4 Friends Android app.
+- 🔭 I’m currently working on ... A private contract and email generator hub, an investigator tool, and more.
 
 ## ☀️ Our vacation homes
 🏖️ Spain - Casa Alise - https://casaalise.eu
